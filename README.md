@@ -29,5 +29,10 @@ CREATE INDEX - creates an index (search key)
 
 DROP INDEX - deletes an index
 
+SELECT DISTINCT- statement is used to return only distinct (different) values.
+
+ORDER BY-  keyword is used to sort the result-set in ascending or descending order.
+
+
 
 
